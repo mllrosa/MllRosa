@@ -16,4 +16,5 @@
   <a href = "mailto:mllr8sa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" width="400"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+
