@@ -1,8 +1,6 @@
 ## Mll Rosa
 # ROSA!
-
-
-gif aqui
+Estudando Prog...
 
 
 <!--languages-->
