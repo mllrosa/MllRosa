@@ -2,7 +2,7 @@
 # ROSA!
 
 
-gif/figurinha aqui
+gif aqui
 
 
 <!--languages-->
@@ -17,6 +17,3 @@ gif/figurinha aqui
 <a href="mailto:mllr8sa@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-
-</div>
