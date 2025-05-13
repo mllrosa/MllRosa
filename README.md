@@ -1,5 +1,5 @@
 ## Mll Rosa
-## ROSA!
+# ROSA!
 
 - 
 
@@ -8,7 +8,7 @@
   <img align="center" alt="komuta-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  ##
+ou gif aqui 
 
 <!--social media-->
 <div> 
@@ -16,4 +16,4 @@
   <a href = "mailto:mllr8sa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+gif aqui
