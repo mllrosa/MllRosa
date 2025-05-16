@@ -1,5 +1,5 @@
-## Mll Rosa
-## ROSA!
+# Mll Rosa
+### ROSA!
 Estudando | Python em progresso...
 
 <!--languages-->
