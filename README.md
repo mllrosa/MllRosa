@@ -1,6 +1,5 @@
 ## Mll Rosa
-# ROSA!
-Estudando Prog...
+## ROSA!
 
 
 <!--languages-->
