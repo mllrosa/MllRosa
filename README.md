@@ -1,6 +1,6 @@
 ## Mll Rosa
 ## ROSA!
-
+Estudando | Python em progresso...
 
 <!--languages-->
 <div style="display: inline_block"><br>
