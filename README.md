@@ -1,6 +1,6 @@
-# Mll Rosa
+# Mll Rosa  
 ### ROSA!
-Estudando | Python em progresso...
+Estudando | Python em progresso... 🚀
 
 <!--languages-->
 <div style="display: inline_block"><br>
