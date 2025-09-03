@@ -2,13 +2,6 @@
 ### ROSA!
 Estudando | Python em progresso... 🚀
 
-🔧 **Ferramentas que estou usando:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="komuta-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="komuta-flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="komuta-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-</div>
-
 <!--languages-->
 <div style="display: inline_block"><br>
   <img align="center" alt="komuta-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><div> 
