@@ -2,6 +2,11 @@
 ### ROSA!
 Estudando | Python em progresso... 🚀
 
+#### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mllrosaa&show_icons=true&hide_title=true)
+
+
+
 <!--languages-->
 <div style="display: inline_block"><br>
   <img align="center" alt="komuta-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><div> 
