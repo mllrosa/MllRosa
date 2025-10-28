@@ -4,7 +4,10 @@ Estudando | Python em progresso... 🚀
 
 
 
-<div class="tenor-gif-embed" data-postid="9479858744498632218" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-cat-dance-gif-9479858744498632218">Cat Cat Dance Sticker</a>from <a href="https://tenor.com/search/cat-stickers">Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</p>
 
 
 
