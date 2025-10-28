@@ -35,6 +35,6 @@ Estudando | Python em progresso... 🚀
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F421649583838490608%2F&psig=AOvVaw2mire1QCz2mNevJ1b16hGB&ust=1761767390011000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiOqfnUx5ADFQAAAAAdAAAAABAE" alt="Snake animation" />
 
 ###
