@@ -14,8 +14,8 @@ Estudando | Python em progresso... 🚀
 </div>
 
 ###
+<img align="right" height="150" src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/assets/cat-dance.gif" alt="Cat dancing" />
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/minha-imagem.png" />
 
 
 ###
