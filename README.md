@@ -15,11 +15,9 @@ Estudando | Python em progresso... 🚀
 
 ###
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f2223f49-d8ef-4fbc-a760-bd44b66218f1" alt="hot-wheels-pocoto-pocoto" />
+  <img src="https://tenor.com/pt-BR/view/cat-cat-dance-gif-9479858744498632218" alt="hot-wheels-pocoto-pocoto" />
 </div>
 
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer" />
- -->
 
 
 
