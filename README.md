@@ -15,9 +15,8 @@ Estudando | Python em progresso... 🚀
 
 ###
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/cat-cat-dance-gif-9479858744498632218" alt="hot-wheels-pocoto-pocoto" />
+   <img src="https://tenor.com/pt-BR/view/cat-cat-dance-gif-9479858744498632218" alt="cat-dancing" width="300">
 </div>
-
 
 
 
