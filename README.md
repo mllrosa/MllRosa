@@ -13,11 +13,13 @@ Estudando | Python em progresso... 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-<div align="center">
-   <img src="https://tenor.com/pt-BR/view/cat-cat-dance-gif-9479858744498632218" alt="cat-dancing" width="300">
-</div>
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f2223f49-d8ef-4fbc-a760-bd44b66218f1" alt="hot-wheels-pocoto-pocoto" width="400">
+  <br><br>
+  <img src="https://media.tenor.com/SEU_ID_DO_GIF_AQUI" alt="cat-dancing" width="300">
+</div>
 
 
 
