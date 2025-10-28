@@ -15,7 +15,7 @@ Estudando | Python em progresso... 🚀
 
 ###
 
-<img align="right" height="150" src="https://pin.it/3ekyG5HLG"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-dcrnz&psig=AOvVaw2mire1QCz2mNevJ1b16hGB&ust=1761767390011000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiOqfnUx5ADFQAAAAAdAAAAABAU"  />
 
 ###
 
