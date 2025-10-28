@@ -16,16 +16,7 @@ Estudando | Python em progresso... 🚀
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f2223f49-d8ef-4fbc-a760-bd44b66218f1" alt="hot-wheels-pocoto-pocoto" width="400">
-  <br><br>
-  
-  <div class="tenor-gif-embed" data-postid="9479858744498632218" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-    <a href="https://tenor.com/view/cat-cat-dance-gif-9479858744498632218">Cat Cat Dance Sticker</a> from 
-    <a href="https://tenor.com/search/cat-stickers">Cat Stickers</a>
-  </div> 
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
-
+  <img src=![alt text](cat-cat-dance.gif)
 ###
 
 <div align="left">
