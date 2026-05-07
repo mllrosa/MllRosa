@@ -1,6 +1,5 @@
-# Mll Rosa  
-### ROSA!
-Estudando | Python em progresso... 🚀
+### Rosa Marcella 
+Estudando | Análise e Desenvolvimento de Sistemas... 🚀
 
 
 
