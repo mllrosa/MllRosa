@@ -3,21 +3,6 @@ Estudando | Análise e Desenvolvimento de Sistemas... 🚀
 
 
 
-
-
-
-
-
-
-<div align="center">
-  <img src="https://media.tenor.com/g485TTq4thoAAAAj/cat-cat-dance.gif" alt="hot-wheels-pocoto-pocoto" />
-</div>
-
-
-
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
